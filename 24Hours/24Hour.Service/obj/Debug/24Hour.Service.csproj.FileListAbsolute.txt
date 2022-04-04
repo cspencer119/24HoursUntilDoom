@@ -1,0 +1,16 @@
+C:\Users\cyrus\OneDrive\Documents\Eleven Fifty Projects\135SD\SD135CSharpFundamentals\GoldBagdeProject\24Hours\24Hour.Service\bin\Debug\24Hour.Service.dll.config
+C:\Users\cyrus\OneDrive\Documents\Eleven Fifty Projects\135SD\SD135CSharpFundamentals\GoldBagdeProject\24Hours\24Hour.Service\bin\Debug\24Hour.Service.dll
+C:\Users\cyrus\OneDrive\Documents\Eleven Fifty Projects\135SD\SD135CSharpFundamentals\GoldBagdeProject\24Hours\24Hour.Service\bin\Debug\24Hour.Service.pdb
+C:\Users\cyrus\OneDrive\Documents\Eleven Fifty Projects\135SD\SD135CSharpFundamentals\GoldBagdeProject\24Hours\24Hour.Service\bin\Debug\EntityFramework.dll
+C:\Users\cyrus\OneDrive\Documents\Eleven Fifty Projects\135SD\SD135CSharpFundamentals\GoldBagdeProject\24Hours\24Hour.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cyrus\OneDrive\Documents\Eleven Fifty Projects\135SD\SD135CSharpFundamentals\GoldBagdeProject\24Hours\24Hour.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\cyrus\OneDrive\Documents\Eleven Fifty Projects\135SD\SD135CSharpFundamentals\GoldBagdeProject\24Hours\24Hour.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\cyrus\OneDrive\Documents\Eleven Fifty Projects\135SD\SD135CSharpFundamentals\GoldBagdeProject\24Hours\24Hour.Service\bin\Debug\EntityFramework.xml
+C:\Users\cyrus\OneDrive\Documents\Eleven Fifty Projects\135SD\SD135CSharpFundamentals\GoldBagdeProject\24Hours\24Hour.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cyrus\OneDrive\Documents\Eleven Fifty Projects\135SD\SD135CSharpFundamentals\GoldBagdeProject\24Hours\24Hour.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\cyrus\OneDrive\Documents\Eleven Fifty Projects\135SD\SD135CSharpFundamentals\GoldBagdeProject\24Hours\24Hour.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\cyrus\OneDrive\Documents\Eleven Fifty Projects\135SD\SD135CSharpFundamentals\GoldBagdeProject\24Hours\24Hour.Service\obj\Debug\24Hour.Service.csproj.AssemblyReference.cache
+C:\Users\cyrus\OneDrive\Documents\Eleven Fifty Projects\135SD\SD135CSharpFundamentals\GoldBagdeProject\24Hours\24Hour.Service\obj\Debug\24Hour.Service.csproj.CoreCompileInputs.cache
+C:\Users\cyrus\OneDrive\Documents\Eleven Fifty Projects\135SD\SD135CSharpFundamentals\GoldBagdeProject\24Hours\24Hour.Service\obj\Debug\24Hour.Service.csproj.CopyComplete
+C:\Users\cyrus\OneDrive\Documents\Eleven Fifty Projects\135SD\SD135CSharpFundamentals\GoldBagdeProject\24Hours\24Hour.Service\obj\Debug\24Hour.Service.dll
+C:\Users\cyrus\OneDrive\Documents\Eleven Fifty Projects\135SD\SD135CSharpFundamentals\GoldBagdeProject\24Hours\24Hour.Service\obj\Debug\24Hour.Service.pdb
